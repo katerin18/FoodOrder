@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">FoodOrder</string>
 
-    <string name="title_menu">Меню</string>
-    <string name="title_profile">Профиль</string>
-    <string name="title_basket">Корзина</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_basket">Basket</string>
 </resources>

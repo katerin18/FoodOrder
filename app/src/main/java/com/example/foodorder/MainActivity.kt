@@ -2,6 +2,9 @@ package com.example.foodorder
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.foodorder.fragments.BasketFragment
+import com.example.foodorder.fragments.MenuFragment
+import com.example.foodorder.fragments.ProfileFragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.android.material.navigation.NavigationBarView
 
